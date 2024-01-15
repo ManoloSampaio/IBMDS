@@ -1,4 +1,4 @@
-# IBM Data Science
+# IBM Data Science Professional Certificate
 This repository contains notebooks from different courses of IBM Data Science Professional Certificate. The notebooks are organized by course.
 ## 1.Courses:
 - [x] What is Data Science?
