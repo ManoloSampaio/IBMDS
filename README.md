@@ -3,11 +3,11 @@ This repository contains notebooks from different courses of IBM Data Science Pr
 ## 1.Courses:
 - [x] What is Data Science?
 - [x] Tools for Data Science.
-- [ ] Data Science Methodology
-- [ ] Python for Data Science,AI & Development.
-- [ ] Python Project for Data Science.
-- [ ] Databases and SQL for Data Science with Python.
-- [ ] Data Analysis with Python.
-- [ ] DATA Visualization with Python.
-- [ ] Machine Learning with Python.
+- [x] Data Science Methodology
+- [x] Python for Data Science,AI & Development.
+- [x] Python Project for Data Science.
+- [x] Databases and SQL for Data Science with Python.
+- [x] Data Analysis with Python.
+- [x] Data Visualization with Python.
+- [x] Machine Learning with Python.
 - [ ] Applied Data Science Capstone
